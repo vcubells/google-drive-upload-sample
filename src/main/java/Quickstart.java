@@ -31,7 +31,7 @@ import java.util.List;
 public class Quickstart {
     /** Application name. */
     private static final String APPLICATION_NAME =
-        "Drive API Java Quickstart";
+        "Drive API Java Sample";
 
     /** Directory to store user credentials for this application. */
     private static final java.io.File DATA_STORE_DIR = new java.io.File(
